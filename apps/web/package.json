@@ -19,7 +19,7 @@
     "@score-linter/score-model": "workspace:*",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "lucide-react": "^1.60.0",
+    "lucide-react": "^1.64.0",
     "opensheetmusicdisplay": "^2.2.1",
     "radix-ui": "^1.8.1",
     "react": "^19.3.1",
@@ -33,10 +33,10 @@
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "@vitejs/plugin-react": "^6.1.2",
-    "shadcn": "^4.22.1",
+    "shadcn": "^4.23.0",
     "tailwindcss": "^4.3.3",
-    "vite": "^8.3.4",
+    "vite": "^8.3.5",
     "vitest": "catalog:",
-    "wrangler": "^4.151.2"
+    "wrangler": "^4.156.0"
   }
 }
